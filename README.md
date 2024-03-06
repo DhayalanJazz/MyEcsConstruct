@@ -25,15 +25,15 @@ In addition, the AWS CDK prevents an instance from being deleted when automatic 
 * Provides asset support, so that you can deploy a source from your machine to Amazon ECS in one step. Previously, to use an application source you had to perform several manual steps, such as uploading to Amazon ECR and creating a Docker image.
 
 Screenshots of AWS Console after Deployment:
-![My Fargate Cluster.](.\Images\MyFargateCluster.png)
+![My Fargate Cluster.](./Images/MyFargateCluster.png)
 
-![Health and Metrics.](.\Images\HealthMetrics.png)
+![Health and Metrics.](./Images/HealthMetrics.png)
 
-![Deployed PHP Application.](.\Images\DeployedPHPApplication.png)
+![Deployed PHP Application.](./Images/DeployedPHPApplication.png)
 
-![Fargate Running Tasks.](.\Images\Tasks.png)
+![Fargate Running Tasks.](./Images/Tasks.png)
 
-![CPU and Memory Utilization.](.\Images\CPU_Utilization.png)
+![CPU and Memory Utilization.](./Images/CPU_Utilization.png)
 
 ## Useful commands
 
